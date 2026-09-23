@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Proffsbyggarna AB',
+	'bransch'        => 'Byggföretag',
 	'telefon'        => '019-25 00 90',
 	'telefon_tel'    => '+4619250090',
 	'ort'            => 'Örebro',
